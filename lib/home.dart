@@ -27,7 +27,6 @@ class _HomeState extends State<Home> {
 
   pickGalleryImage() async {
     var image = await picker.getImage(source: ImageSource.gallery);
-
     if (image == null) return null;
 
     setState(() {

@@ -1,4 +1,4 @@
-import 'package:catanddogpredictor/splashscreen.dart';
+import 'package:breed_detector/splashscreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
